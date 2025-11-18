@@ -1,0 +1,1 @@
+# Robot-cuadrupedo-con-mecanismo-de-6-barras
